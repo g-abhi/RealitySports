@@ -4,6 +4,10 @@ Team Quasar.
 
 A platform leveraging advanced deep learning techniques to create highly realistic 3D sports environments using any camera.
 
+YouTube Demo Video: (https://youtu.be/HO3IrQl_7-g)
+
+Devpost Submission for Hacklytics 2023: (https://devpost.com/software/realitysports)
+
 # Inspiration
 
 Sports have been 2D for 84 years! Our most iconic moments are captured around the world – why not view them in 3D for a more immersive experience? 3D technology might enable the future of realistic sports environments, right at home. Moreover, 3D scenes may enable advanced coaching and officiating opportunities. At Hacklytics, Team Quasar used advanced deep learning techniques to enable never-before seen 3D experiences in athletics.
@@ -16,7 +20,7 @@ Reality Sports accelerates the creation of highly realistic virtual worlds which
 
 During the weekend, Team Quasar procured and analyzed a highly custom dataset at the Georgia Tech Campus Recreational Center (CRC) using a LiDAR sensors on our mobile devices. LiDAR fields were processed using custom Python code and analyzed using NeRF models. NeRF implementation was enabled through the open-source NVidia Instant-NGP software (https://github.com/NVlabs/instant-ngp). 
 
-Camera scenes were programmed for showing off our custom NeRF scenes! Furthermore, NeRF analysis enabled output of high-quality 3D meshes, allowing us to further augment traditional sports content in an interactive, creative fashion. 
+Camera scenes were programmed for showing off our custom NeRF scenes! Furthermore, NeRF analysis enabled output of high-quality 3D meshes, allowing us to further augment traditional sports content in an interactive, creative fashion. MeshLab and Blender was used to augment CGI imagery.
 
 # Challenges we ran into
 
@@ -32,7 +36,7 @@ We gained much experience using Python for image processing, including popular p
 
 # What's next for Reality Sports
 
-With more time, Reality Sports hopes to further improve NeRF creation capabilities. We aspire to film a live sports game and evaluate the use of NeRFs for evolving a virtual experience in real-time. Furthermore, we hope to render these events in VR.  
+With more time, Reality Sports hopes to further improve NeRF creation capabilities. We aspire to film a live sports game and evaluate the use of NeRFs for evolving a virtual experience in real-time. Furthermore, we hope to render these events in VR. 
 
 # Built With
 •	Neural Radiance Fields (NeRFs)
